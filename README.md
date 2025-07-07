@@ -23,7 +23,7 @@ The project includes the following key entities:
 - **Supplier**
 - **Payment_Processor**
 
-Refer to ![restaurant_schema.sql](./restaurant_schema.sql) for full table creation queries.
+Refer to [`restaurant_schema.sql`](./restaurant_schema.sql) for full table creation queries.
 
 ---
 

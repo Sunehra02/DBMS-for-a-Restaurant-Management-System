@@ -23,7 +23,7 @@ The project includes the following key entities:
 - **Supplier**
 - **Payment_Processor**
 
-Refer to `restaurant_schema.sql` for full table creation queries.
+Refer to ![restaurant_schema.sql](./restaurant_schema.sql) for full table creation queries.
 
 ---
 
@@ -32,8 +32,6 @@ Refer to `restaurant_schema.sql` for full table creation queries.
 An Entity-Relationship diagram illustrating relationships between tables is included:
 
 ![ER Diagram](./er_diagram.png)
-
-More explanation in [`er_diagram.md`](./er_diagram.md)
 
 ---
 

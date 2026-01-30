@@ -6,13 +6,13 @@ This is part of a group project for a Database Management Sessional course. It i
 This project introduces a modern Database Management System(DBMS) tailored for restaurants. It replaces outdated manual methods and disconnected tools with a unified, digital solution. The system simplifies complex processes like order handling, inventory tracking, and payment processing— creating a seamless and efficient work flow that enhances both staff coordination and customer service.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - SQL
 - MySQL 
 
 ---
 
-## 🧱 Database Schema Overview
+## Database Schema Overview
 
 The project includes the following key entities:
 
@@ -27,7 +27,7 @@ Refer to [`restaurant_schema.sql`](./restaurant_schema.sql) for full table creat
 
 ---
 
-## 🖼️ ER Diagram
+## ER Diagram
 
 An Entity-Relationship diagram illustrating relationships between tables is included:
 
@@ -35,7 +35,7 @@ An Entity-Relationship diagram illustrating relationships between tables is incl
 
 ---
 
-## 🔧 How to Use
+## How to Use
 
 1. Run `restaurant_schema.sql` to create all tables.
 2. Run `insert_data.sql` to insert sample data.
@@ -43,7 +43,7 @@ An Entity-Relationship diagram illustrating relationships between tables is incl
 
 ---
 
-## 🧪 Example Queries
+## Example Queries
 
 Some examples from `queries.sql`:
 
@@ -54,7 +54,7 @@ Some examples from `queries.sql`:
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 - ✅ Tables created
 - ✅ Data inserted
@@ -64,7 +64,7 @@ Some examples from `queries.sql`:
 
 ---
 
-## 📚 License
+## License
 
 This project is licensed for educational use. See [`LICENSE`](./LICENSE) for details.
 
